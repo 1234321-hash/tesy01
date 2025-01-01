@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\shaoe\OneDrive\桌面\Project4 - 複製\Project4\Source.c(3,36): error C2143: 語法錯誤: 遺漏 ')' (在 '*' 之前)
+C:\Users\shaoe\OneDrive\桌面\Project4 - 複製\Project4\Source.c(3,36): error C2143: 語法錯誤: 遺漏 '{' (在 '*' 之前)
+C:\Users\shaoe\OneDrive\桌面\Project4 - 複製\Project4\Source.c(3,52): error C2146: 語法錯誤: 遺漏 ';' (在識別項 'user_data' 之前)
+C:\Users\shaoe\OneDrive\桌面\Project4 - 複製\Project4\Source.c(3,61): error C2059: 語法錯誤: ')'
+C:\Users\shaoe\OneDrive\桌面\Project4 - 複製\Project4\Source.c(3,52): error C2054: 在 'user_data' 之後必須有 '('
